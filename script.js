@@ -22,3 +22,5 @@ resetBtn.addEventListener('click', () => {
     count = 0;
     updateCount();
 });
+
+//some comments here
