@@ -12,7 +12,7 @@ incrementBtn.addEventListener('click', () => {
     count++;
     updateCount();
 });
-
+// some comments here too
 decrementBtn.addEventListener('click', () => {
     count--;
     updateCount();
